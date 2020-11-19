@@ -4,3 +4,6 @@ add two numbers
 10+
 5
 }
+after completion of the adding 
+total number is 15
+}
