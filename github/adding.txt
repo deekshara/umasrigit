@@ -1,0 +1,6 @@
+this is first commit in github
+{
+add two numbers
+10+
+5
+}
